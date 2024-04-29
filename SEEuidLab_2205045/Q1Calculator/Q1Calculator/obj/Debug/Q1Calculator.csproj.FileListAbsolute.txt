@@ -1,0 +1,9 @@
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\bin\Debug\Q1Calculator.exe.config
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\obj\Debug\Q1Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\obj\Debug\Q1Calculator.Form1.resources
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\obj\Debug\Q1Calculator.Properties.Resources.resources
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\obj\Debug\Q1Calculator.csproj.GenerateResource.Cache
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\bin\Debug\Q1Calculator.exe
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\bin\Debug\Q1Calculator.pdb
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\obj\Debug\Q1Calculator.exe
+C:\Users\Student 2023-24\Desktop\SEEuidLab_2205045\Q1Calculator\Q1Calculator\obj\Debug\Q1Calculator.pdb
